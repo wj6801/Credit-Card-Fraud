@@ -1135,9 +1135,3 @@ Potential avenues for future research and development include:
 * Investigating anomaly detection algorithms that may be better suited for this highly imbalanced scenario
 
 This project demonstrates the development of a machine learning pipeline for fraud detection, encompassing data preprocessing, model training, hyperparameter tuning, and evaluation. The results highlight the intricacies involved and emphasize the necessity for continuous iteration and refinement in constructing effective fraud detection systems.
-
-
-
-```python
-
-```
